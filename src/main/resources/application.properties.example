@@ -1,0 +1,6 @@
+spring.application.name=API
+spring.datasource.url=jdbc:postgresql://your-host:5432/your-db?sslmode=require
+spring.datasource.username=postgres
+spring.datasource.password=yourpassword
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
